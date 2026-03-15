@@ -105,7 +105,7 @@ public class Main {
 
                     if (executor != null) executor.shutdownNow();
 
-                    System.out.println("Kết thúc chương trình.");
+                    System.out.println("Đang dừng hệ thống...");
                     return;
             }
         }
